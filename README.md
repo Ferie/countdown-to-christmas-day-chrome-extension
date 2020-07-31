@@ -1,5 +1,11 @@
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
+![Chrome Web Store - Version](https://badgen.net/chrome-web-store/v/hdncbeemmadlkelehboocphbgnpagmgk?icon=chrome)
+![Chrome Web Store - Users](https://badgen.net/chrome-web-store/users/hdncbeemmadlkelehboocphbgnpagmgk?icon=chrome)
+![Chrome Web Store - Stars](https://badgen.net/chrome-web-store/stars/hdncbeemmadlkelehboocphbgnpagmgk?icon=chrome)
+![Chrome Web Store - Rating](https://badgen.net/chrome-web-store/rating/hdncbeemmadlkelehboocphbgnpagmgk?icon=chrome)
+![Chrome Web Store - Rating Count](https://badgen.net/chrome-web-store/rating-count/hdncbeemmadlkelehboocphbgnpagmgk?icon=chrome)
+
 # Countdown to Christmas Day Chrome Extension
 
 Another Chrome Extension application.
